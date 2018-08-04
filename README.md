@@ -1,6 +1,6 @@
 # Music Player
 
-A minimal music player using Flutter.
+A minimal music player with audio visualizer using Flutter.
 
 ## Idea
 
