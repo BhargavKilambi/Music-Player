@@ -1,8 +1,7 @@
 # music_player
 
-A new Flutter project.
+A minimal music player using Flutter.
 
-## Getting Started
+## Idea
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Based on the [tutorial](https://www.youtube.com/watch?v=FE7Vtzq52xg) from [Matthew Carroll](https://github.com/matthew-carroll).
